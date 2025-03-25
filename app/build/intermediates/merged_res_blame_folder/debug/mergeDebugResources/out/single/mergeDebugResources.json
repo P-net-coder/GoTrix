@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_barcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_seat_black_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\seat_black_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_to_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\to_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_calendar_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\calendar_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_world.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_passenger_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\passenger_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_barcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_dash_line.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\dash_line.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_world.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_seat_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\seat_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_women.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_calendar_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\calendar_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_dash_line.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\dash_line.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_passenger_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\passenger_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_seat_black_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\seat_black_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_world_half.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_world_half.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_calendar_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\calendar_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_passenger_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\passenger_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_light_grey_bg.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\light_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_airple_seat.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\airple_seat.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\layout_sp_item.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\sp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_seat_black_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\seat_black_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.event.gotrix.app-debug-37:/layout_activity_search.xml.flat",
+        "source": "com.event.gotrix.app-main-39:/layout/activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_qrcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_seat_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\seat_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_passenger_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\passenger_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_airple_seat.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\airple_seat.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_dash_line.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\dash_line.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_qrcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_calendar_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\calendar_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_barcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_men.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_airple_seat.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\airple_seat.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_to_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\to_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_barcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_airple_seat.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\airple_seat.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_women.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_qrcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_blue_bg.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\blue_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_men.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_from_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\from_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_from_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\from_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_to_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\to_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_world.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_dash_line.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\dash_line.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_to_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\to_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_world.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_from_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\from_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_seat_human.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\seat_human.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_seat_human.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\seat_human.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_seat_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\seat_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_bell_icon.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_women.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\menu_menu_bottom.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\menu\\menu_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_men.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_men.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_world.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_dash_line.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\dash_line.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_men.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_seat_human.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\seat_human.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_seat_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\seat_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_seat_blue.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\seat_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_women.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_blue_bg_bottom_corner.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\blue_bg_bottom_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_from_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\from_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_stroke_bg.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\stroke_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_to_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\to_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_qrcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_seat_human.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\seat_human.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_world_half.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_seat_black_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\seat_black_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_world_half.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_calendar_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\calendar_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_airple_seat.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\airple_seat.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_intro_pic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_seat_black_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\seat_black_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_light_blue_btn_bg.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\light_blue_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_passenger_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\passenger_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_seat_human.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\seat_human.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_from_ic.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\from_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_women.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-ldpi_qrcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-ldpi\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_world_half.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable_white_bg.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-hdpi_barcode.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-hdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-mdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\drawable-mdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-debug-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]

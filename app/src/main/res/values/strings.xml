@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GoTrix</string>
+    <string name="get_started">Get Started</string>
+    <string name="button">button</string>
+    <string name="gotrix">GoTrix</string>
+    <string name="fly_anywhere_easily_n_without_obstacles">Fly anywhere easily\n without obstacles</string>
+    <string name="experience_the_unparallelled_n_freedom_of_unhindered_n_flight_you_effortlessly_travers">Experience the unparallelled\n freedom of unhindered\n flight you effortlessly travers</string>
+    <string name="i_have_an_account">I Have An Account</string>
+    <string name="passenger">Passenger</string>
+    <string name="todo">TODO</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="alex_johnson">Alex Johnson</string>
+
+    <string name="return_date">Return Date</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="_1_child">1 Child</string>
+    <string name="_1_adult">1 Adult</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="explorer">Explorer</string>
+    <string name="home">Home</string>
+    <string name="toshort">to</string>
+    <string name="fromshort">from</string>
+    <string name="from2">from</string>
+    <string name="to2">to</string>
+    <string name="class2">class</string>
+</resources>

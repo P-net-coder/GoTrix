@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0075f1</color>
+    <color name="grey">#d0e8ff</color>
+    <color name="lightBlue">#2196F3</color>
+    <color name="lightGrey">#efefef</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_1_adult">1 Adult</string>
+    <string name="_1_child">1 Child</string>
+    <string name="alex_johnson">Alex Johnson</string>
+    <string name="app_name">GoTrix</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="button">button</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="experience_the_unparallelled_n_freedom_of_unhindered_n_flight_you_effortlessly_travers">Experience the unparallelled\n freedom of unhindered\n flight you effortlessly travers</string>
+    <string name="explorer">Explorer</string>
+    <string name="firebase_database_url" translatable="false">https://gotrix-51269-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="fly_anywhere_easily_n_without_obstacles">Fly anywhere easily\n without obstacles</string>
+    <string name="from">From</string>
+    <string name="gcm_defaultSenderId" translatable="false">45702332850</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyCcWw6jOCPuDwlV1UETA2FFSK4e8p5XDNs</string>
+    <string name="google_app_id" translatable="false">1:45702332850:android:29e44f4301bbf51a6364ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCcWw6jOCPuDwlV1UETA2FFSK4e8p5XDNs</string>
+    <string name="google_storage_bucket" translatable="false">gotrix-51269.firebasestorage.app</string>
+    <string name="gotrix">GoTrix</string>
+    <string name="home">Home</string>
+    <string name="i_have_an_account">I Have An Account</string>
+    <string name="passenger">Passenger</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">gotrix-51269</string>
+    <string name="return_date">Return Date</string>
+    <string name="to">To</string>
+    <string name="todo">TODO</string>
+    <style name="Base.Theme.GoTrix" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GoTrix" parent="Base.Theme.GoTrix"/>
+</resources>

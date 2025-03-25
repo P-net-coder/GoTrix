@@ -1,0 +1,3 @@
+com.event.gotrix.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "45702332850",
+    "firebase_url": "https://gotrix-51269-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gotrix-51269",
+    "storage_bucket": "gotrix-51269.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45702332850:android:29e44f4301bbf51a6364ab",
+        "android_client_info": {
+          "package_name": "com.event.gotrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcWw6jOCPuDwlV1UETA2FFSK4e8p5XDNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
