@@ -1,22 +1,46 @@
 [
     {
-        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-36:\\layout\\sp_item.xml",
-        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\sp_item.xml"
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\seat_item.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\seat_item.xml"
     },
     {
-        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-36:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-36:\\layout\\activity_intro.xml",
-        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_intro.xml"
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_seat_list.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_seat_list.xml"
     },
     {
-        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-36:\\layout\\activity_search.xml",
-        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-39:\\layout\\activity_search.xml"
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_intro.xml"
     },
     {
-        "merged": "com.event.gotrix.app-mergeDebugResources-36:/layout/activity_search.xml",
-        "source": "com.event.gotrix.app-main-39:/layout/activity_search.xml"
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\sp_item.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\sp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\viewholder_flight.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\viewholder_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.event.gotrix.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.event.gotrix.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-mergeDebugResources-44:\\layout\\activity_ticket_detail.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\8.11.1\\com.event.gotrix.app-main-47:\\layout\\activity_ticket_detail.xml"
     }
 ]

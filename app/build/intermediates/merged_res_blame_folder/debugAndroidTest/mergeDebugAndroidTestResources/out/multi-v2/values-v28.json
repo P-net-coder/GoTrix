@@ -4,7 +4,7 @@
             "outputFile": "com.event.gotrix.test.app-mergeDebugAndroidTestResources-2:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rames\\.gradle\\caches\\8.11.1\\transforms\\1695eda43e0819721f96be3e633c8066\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\rames\\.gradle\\caches\\8.11.1\\transforms\\d7718e3813442cf08e2dbd37627673db\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",

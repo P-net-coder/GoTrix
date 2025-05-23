@@ -10,6 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.event.gotrix.R;
@@ -28,23 +29,32 @@ public final class ActivitySearchBinding implements ViewBinding {
   public final ConstraintLayout constraintLayout;
 
   @NonNull
-  public final ImageView imageView;
+  public final ImageView imageView9;
+
+  @NonNull
+  public final ConstraintLayout main;
+
+  @NonNull
+  public final TextView numberSelectedTxt;
 
   @NonNull
   public final ProgressBar progressBarSearch;
 
   @NonNull
-  public final TextView textView4;
+  public final RecyclerView searchView;
 
   private ActivitySearchBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView backBtn,
-      @NonNull ConstraintLayout constraintLayout, @NonNull ImageView imageView,
-      @NonNull ProgressBar progressBarSearch, @NonNull TextView textView4) {
+      @NonNull ConstraintLayout constraintLayout, @NonNull ImageView imageView9,
+      @NonNull ConstraintLayout main, @NonNull TextView numberSelectedTxt,
+      @NonNull ProgressBar progressBarSearch, @NonNull RecyclerView searchView) {
     this.rootView = rootView;
     this.backBtn = backBtn;
     this.constraintLayout = constraintLayout;
-    this.imageView = imageView;
+    this.imageView9 = imageView9;
+    this.main = main;
+    this.numberSelectedTxt = numberSelectedTxt;
     this.progressBarSearch = progressBarSearch;
-    this.textView4 = textView4;
+    this.searchView = searchView;
   }
 
   @Override
@@ -86,9 +96,17 @@ public final class ActivitySearchBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageView;
-      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
-      if (imageView == null) {
+      id = R.id.imageView9;
+      ImageView imageView9 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView9 == null) {
+        break missingId;
+      }
+
+      ConstraintLayout main = (ConstraintLayout) rootView;
+
+      id = R.id.numberSelectedTxt;
+      TextView numberSelectedTxt = ViewBindings.findChildViewById(rootView, id);
+      if (numberSelectedTxt == null) {
         break missingId;
       }
 
@@ -98,14 +116,14 @@ public final class ActivitySearchBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView4;
-      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
-      if (textView4 == null) {
+      id = R.id.searchView;
+      RecyclerView searchView = ViewBindings.findChildViewById(rootView, id);
+      if (searchView == null) {
         break missingId;
       }
 
       return new ActivitySearchBinding((ConstraintLayout) rootView, backBtn, constraintLayout,
-          imageView, progressBarSearch, textView4);
+          imageView9, main, numberSelectedTxt, progressBarSearch, searchView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

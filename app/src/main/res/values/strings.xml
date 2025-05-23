@@ -20,9 +20,10 @@
     <string name="profile">Profile</string>
     <string name="explorer">Explorer</string>
     <string name="home">Home</string>
-    <string name="toshort">to</string>
-    <string name="fromshort">from</string>
-    <string name="from2">from</string>
-    <string name="to2">to</string>
-    <string name="class2">class</string>
+    <string name="toShort">to</string>
+    <string name="fromShort">from</string>
+    <string name="_0_0">₹0.0</string>
+    <string name="search_result">Search Result</string>
+    <string name="time">time</string>
+
 </resources>

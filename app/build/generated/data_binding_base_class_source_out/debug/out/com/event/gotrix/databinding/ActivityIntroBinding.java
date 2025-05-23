@@ -4,6 +4,7 @@ package com.event.gotrix.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -25,35 +26,39 @@ public final class ActivityIntroBinding implements ViewBinding {
   public final TextView To;
 
   @NonNull
-  public final AppCompatButton button;
-
-  @NonNull
-  public final AppCompatButton button2;
-
-  @NonNull
   public final ImageView imageView4;
+
+  @NonNull
+  public final AppCompatButton loginButton;
+
+  @NonNull
+  public final EditText loginEmail;
+
+  @NonNull
+  public final EditText loginPassword;
 
   @NonNull
   public final ConstraintLayout main;
 
   @NonNull
-  public final TextView textView5;
+  public final TextView signupRedirectText;
 
   @NonNull
-  public final TextView textView6;
+  public final TextView textView5;
 
   private ActivityIntroBinding(@NonNull ConstraintLayout rootView, @NonNull TextView To,
-      @NonNull AppCompatButton button, @NonNull AppCompatButton button2,
-      @NonNull ImageView imageView4, @NonNull ConstraintLayout main, @NonNull TextView textView5,
-      @NonNull TextView textView6) {
+      @NonNull ImageView imageView4, @NonNull AppCompatButton loginButton,
+      @NonNull EditText loginEmail, @NonNull EditText loginPassword, @NonNull ConstraintLayout main,
+      @NonNull TextView signupRedirectText, @NonNull TextView textView5) {
     this.rootView = rootView;
     this.To = To;
-    this.button = button;
-    this.button2 = button2;
     this.imageView4 = imageView4;
+    this.loginButton = loginButton;
+    this.loginEmail = loginEmail;
+    this.loginPassword = loginPassword;
     this.main = main;
+    this.signupRedirectText = signupRedirectText;
     this.textView5 = textView5;
-    this.textView6 = textView6;
   }
 
   @Override
@@ -89,25 +94,37 @@ public final class ActivityIntroBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.button;
-      AppCompatButton button = ViewBindings.findChildViewById(rootView, id);
-      if (button == null) {
-        break missingId;
-      }
-
-      id = R.id.button2;
-      AppCompatButton button2 = ViewBindings.findChildViewById(rootView, id);
-      if (button2 == null) {
-        break missingId;
-      }
-
       id = R.id.imageView4;
       ImageView imageView4 = ViewBindings.findChildViewById(rootView, id);
       if (imageView4 == null) {
         break missingId;
       }
 
+      id = R.id.login_button;
+      AppCompatButton loginButton = ViewBindings.findChildViewById(rootView, id);
+      if (loginButton == null) {
+        break missingId;
+      }
+
+      id = R.id.login_email;
+      EditText loginEmail = ViewBindings.findChildViewById(rootView, id);
+      if (loginEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.login_password;
+      EditText loginPassword = ViewBindings.findChildViewById(rootView, id);
+      if (loginPassword == null) {
+        break missingId;
+      }
+
       ConstraintLayout main = (ConstraintLayout) rootView;
+
+      id = R.id.signup_RedirectText;
+      TextView signupRedirectText = ViewBindings.findChildViewById(rootView, id);
+      if (signupRedirectText == null) {
+        break missingId;
+      }
 
       id = R.id.textView5;
       TextView textView5 = ViewBindings.findChildViewById(rootView, id);
@@ -115,14 +132,8 @@ public final class ActivityIntroBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView6;
-      TextView textView6 = ViewBindings.findChildViewById(rootView, id);
-      if (textView6 == null) {
-        break missingId;
-      }
-
-      return new ActivityIntroBinding((ConstraintLayout) rootView, To, button, button2, imageView4,
-          main, textView5, textView6);
+      return new ActivityIntroBinding((ConstraintLayout) rootView, To, imageView4, loginButton,
+          loginEmail, loginPassword, main, signupRedirectText, textView5);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

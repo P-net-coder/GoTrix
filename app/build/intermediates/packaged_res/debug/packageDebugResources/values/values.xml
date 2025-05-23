@@ -2,10 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="blue">#0075f1</color>
-    <color name="grey">#d0e8ff</color>
+    <color name="grey">#ADAEAF</color>
     <color name="lightBlue">#2196F3</color>
     <color name="lightGrey">#efefef</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="_0_0">₹0.0</string>
     <string name="_1_adult">1 Adult</string>
     <string name="_1_child">1 Child</string>
     <string name="alex_johnson">Alex Johnson</string>
@@ -18,6 +19,7 @@
     <string name="firebase_database_url" translatable="false">https://gotrix-51269-default-rtdb.asia-southeast1.firebasedatabase.app</string>
     <string name="fly_anywhere_easily_n_without_obstacles">Fly anywhere easily\n without obstacles</string>
     <string name="from">From</string>
+    <string name="fromShort">from</string>
     <string name="gcm_defaultSenderId" translatable="false">45702332850</string>
     <string name="get_started">Get Started</string>
     <string name="google_api_key" translatable="false">AIzaSyCcWw6jOCPuDwlV1UETA2FFSK4e8p5XDNs</string>
@@ -31,7 +33,10 @@
     <string name="profile">Profile</string>
     <string name="project_id" translatable="false">gotrix-51269</string>
     <string name="return_date">Return Date</string>
+    <string name="search_result">Search Result</string>
+    <string name="time">time</string>
     <string name="to">To</string>
+    <string name="toShort">to</string>
     <string name="todo">TODO</string>
     <style name="Base.Theme.GoTrix" parent="Theme.Material3.DayNight.NoActionBar">
         

@@ -1,4 +1,4 @@
-com.event.gotrix.test.app-core-1.6.1-0 C:\Users\rames\.gradle\caches\8.11.1\transforms\1695eda43e0819721f96be3e633c8066\transformed\core-1.6.1\res
+com.event.gotrix.test.app-core-1.6.1-0 C:\Users\rames\.gradle\caches\8.11.1\transforms\d7718e3813442cf08e2dbd37627673db\transformed\core-1.6.1\res
 com.event.gotrix.test.app-androidTest-1 C:\Users\rames\AndroidStudioProjects\GoTrix\app\build\generated\res\resValues\androidTest\debug
 com.event.gotrix.test.app-mergeDebugAndroidTestResources-2 C:\Users\rames\AndroidStudioProjects\GoTrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
 com.event.gotrix.test.app-mergeDebugAndroidTestResources-3 C:\Users\rames\AndroidStudioProjects\GoTrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
