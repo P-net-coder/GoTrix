@@ -10,7 +10,7 @@ It allows users to search for flights and book tickets easily with a clean, mode
 - ✈ Browse available flights
 - 🧑‍💼 User registration and login
 - 🎟 Book flight tickets
-- ☁ Real-time sync with Firebase Firestore
+- ☁ Real-time sync with Firebase
 - 🔐 Secure, privacy-respecting design
 
 ---
